@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tookuagai.kleinschweden.de/sitemap.xml
